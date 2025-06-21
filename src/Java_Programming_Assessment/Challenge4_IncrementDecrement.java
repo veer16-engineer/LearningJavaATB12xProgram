@@ -8,7 +8,7 @@ public class Challenge4_IncrementDecrement {
 
         System.out.print("Enter a number: ");
         int num = scanner.nextInt();
-        int original = num; // Save original value
+        int original = num;
 
         System.out.println("\n--- Original Value ---");
         System.out.println("Original: " + original);
